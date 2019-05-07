@@ -1,6 +1,6 @@
 # BigTwo
 
-An implementation of the BigTwo card game in Java, with GUI and Network support. Made as part of a project for the course COMP2396 @ the University of Hong Kong.
+An implementation of the BigTwo card game in Java, with GUI and Network support. Made as part of a project for the course COMP2396 @ the University of Hong Kong. Extends classes and interfaces provided by Dr. Kenneth Wong, HKU.
 
 ## Usage: ##
 
